@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MireiaHernandezLozano
-- 👩‍💻 I’m interested in economy, blockchain, data science and coding ❤️ 
-- 🌱 If you want to give me a chance for collaborate, send me a message  💌 mireiahelo@gmail.com  
+- 👋 Hi, I’m Mireia
+- 👩‍💻 I’m interested in blockchain, economy, data science and coding ❤️ 
+- 🌱 If you want to collaborate, send me a message  💌 mireiahelo@gmail.com  
  
 
